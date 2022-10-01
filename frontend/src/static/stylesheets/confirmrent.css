@@ -1,0 +1,13 @@
+.rentdata {
+    position: relative;
+    margin-top: 90px;
+}
+h3 {
+    font-size: 20px;
+}
+.approval, .rejection{
+    font-size: 20px;
+    background-color: #6d44b8;
+    color: whitesmoke;
+    border-radius: 10px;
+}

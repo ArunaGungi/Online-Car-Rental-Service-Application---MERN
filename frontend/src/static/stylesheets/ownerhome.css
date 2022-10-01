@@ -1,0 +1,65 @@
+.ownerdashboardimage {
+	width: 60%;
+	height: 50%;
+	position: relative;
+	margin-top: 30px;
+}
+
+#topnav {
+	position: relative;
+	background-color:cadetblue;
+	border-top: cadetblue;
+}
+
+#addcar, #approve, #addedcars, #rentcar, #status, #history{
+	margin-top: 30px;
+	margin-bottom: 10px;
+	font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+	background-color:cadetblue;
+	border-color: cadetblue;
+	color: white;
+	font-size: 30px;
+	margin-right: 20px;
+	border-radius: 0%;
+	border-top: cadetblue;
+}
+#contactowner{
+	margin-top: 30px;
+	margin-bottom: 20px;
+	font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+	background-color:cadetblue;
+	border-color: cadetblue;
+	color: white;
+	font-size: 30px;
+	margin-right: 20px;
+	border-radius: 0%;
+	border-top: cadetblue;
+}
+#rentx {
+	float: left;
+	margin-top: 30px;
+	margin-bottom: 20px;
+	font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+	background-color:cadetblue;
+	color: white;
+}
+#logout {
+	font-size: 30px;
+	float: right;
+	margin-top: 30px;
+	margin-bottom: 20px;
+	font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+	background-color:cadetblue;
+	color: white;
+}
+
+h2 {
+	text-align: center;
+	color: blue;
+	font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+img {
+	position: relative;
+	margin-top: 20px;
+}

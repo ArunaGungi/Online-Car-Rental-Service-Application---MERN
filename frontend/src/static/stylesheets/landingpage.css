@@ -1,0 +1,77 @@
+@import url("https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css");
+
+#main1 {
+    width:100%;
+    height: 100px;
+}
+#main2 {
+    background-color:aqua;
+    width: 50%;
+    height: 100px;
+    float: left;
+}
+#main3 {
+    width: 50%;
+    float: right;
+}
+img {
+    border-radius: 20px;
+}
+#customerbtn, #adminbtn, #ownerbtn, #contact {
+ font-size: 23px;
+ font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+ border-radius: none;
+ font-weight: normal;
+  border: 1px solid transparent;
+  border-radius: 3px;
+  color: black;
+  cursor: pointer;
+  display: inline-block;
+  margin: 0;
+  outline: none;
+  padding: 8px .8em;
+  position: relative;
+  text-align: center;
+  text-decoration: none;
+  user-select: none;
+  -webkit-user-select: none;
+  touch-action: manipulation;
+  vertical-align: baseline;
+  white-space: nowrap;
+}
+
+a {
+    font-size: 33px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    border-radius: none;
+    font-weight: normal;
+  color: black;
+  cursor: pointer;
+  display: inline-block;
+  font-weight: 400;
+  line-height: 1.15385;
+  margin: 0;
+  outline: none;
+  padding: 8px .8em;
+  position: relative;
+  text-align: center;
+  text-decoration: none;
+  user-select: none;
+  -webkit-user-select: none;
+  touch-action: manipulation;
+  vertical-align: baseline;
+  white-space: nowrap;
+
+}
+
+p {
+    font-size: 20px;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-display: 100px;
+    text-align: left;
+    margin-left: 30px;
+}
+#signup,#search,#book{
+    color: blue;
+    font-size: 40px;
+}

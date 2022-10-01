@@ -1,0 +1,52 @@
+#topnav {
+	position: relative;
+	background-color:cadetblue;
+	border-top: cadetblue;
+}
+
+.viewcar, .status, .contact{
+	margin-top: 30px;
+	margin-bottom: 20px;
+	font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+	background-color:cadetblue;
+	border-color: cadetblue;
+	color: white;
+	font-size: 25px;
+	margin-right: 20px;
+	border-radius: 0%;
+	border-top: cadetblue;
+}
+.rentx {
+	float: left;
+	margin-top: 30px;
+	margin-bottom: 20px;
+	font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+	background-color:cadetblue;
+	color: white;
+}
+.logout {
+	font-size: 30px;
+	float: right;
+	margin-top: 30px;
+	margin-bottom: 20px;
+	font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+	background-color:cadetblue;
+	color: white;
+}
+.section1 {
+	float: left;
+	position: relative;
+	margin-left: 400px;
+	
+}
+#section2 {
+	float: left;
+	position: relative;
+	margin-left: 200px;
+	margin-top: 40px;
+}
+#submit {
+	position: relative;
+	margin-top: 500px;
+	float: center;
+}
